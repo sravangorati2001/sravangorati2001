@@ -7,11 +7,11 @@
 
 - 👯 I’m looking to collaborate on **building full stack projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sravangorati2001](https://github.com/sravangorati2001)
+- 👨‍💻 All of my projects are available at [sravangorati2001](https://github.com/sravangorati2001)
 
 - 📫 How to reach me **sravankumargorati@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Ng0g6VxmYv8Pk_3mxkq8koBvAidEwuxX/view?usp=sharing](https://drive.google.com/file/d/1Ng0g6VxmYv8Pk_3mxkq8koBvAidEwuxX/view?usp=sharing)
+- 📄 Know about my experiences [Sravan Kumar](https://drive.google.com/file/d/1Ng0g6VxmYv8Pk_3mxkq8koBvAidEwuxX/view?usp=sharing)
 
 - ⚡ Fun fact **“There’s no place like 127.0.0.1.”**
 

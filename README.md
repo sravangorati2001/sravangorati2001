@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on **NodeJs,MongoDb,PHP,Amazon web services**
+- 🔭 I’m currently working on **NodeJs, MongoDb, PHP, Javascript, and Amazon web services**
 
 - 🌱 I’m currently learning **TypeScript**
 

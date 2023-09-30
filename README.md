@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **NodeJs, MongoDb, PHP, Javascript, and Amazon web services**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **GraphQL, Redis**
 
 - 👯 I’m looking to collaborate on **building full stack projects**
 

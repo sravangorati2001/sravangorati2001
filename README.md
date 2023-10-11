@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences [Sravan Kumar](https://drive.google.com/file/d/1Ng0g6VxmYv8Pk_3mxkq8koBvAidEwuxX/view?usp=sharing)
 
-- ⚡ Fun fact **“There’s no place like 127.0.0.1.”**
+
 
 
 <h3 align="left">Connect with me:</h3>
